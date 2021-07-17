@@ -1,6 +1,9 @@
-# consellspc
+# Consellspc
 Web
 SCRIPT BY LIMUSINA10
+
+# IMPORTANT: (Updated 7/2021)
+Repository archived. 
 
 --
 
